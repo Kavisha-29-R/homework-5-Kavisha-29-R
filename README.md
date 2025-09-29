@@ -46,5 +46,5 @@ You can view the publicly hosted Sankey diagram here:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-GITHUB-USERNAME/hw5.git
+   git clone https://github.com/Kavisha-29-R/homework-5-Kavisha-29-R.git
    cd hw5
