@@ -29,7 +29,7 @@ The assignment involves web scraping GDP data, creating interactive visualizatio
 - Save the plot to an HTML file: `sankey.html`.  
 
 ### 3. Host the Sankey Diagram on GitHub Pages  
-- Created a **public repository** on my personal GitHub account (not the classroom repo).  
+- Created a **public repository** on my personal GitHub account (not the classroom repo). [Sankey-Repo](https://github.com/Kavisha-29-R/hw5-Sankey-Plot.git) 
 - Added the Sankey HTML file to that repo.  
 - Hosted it via **GitHub Pages**.  
 
@@ -38,7 +38,7 @@ The assignment involves web scraping GDP data, creating interactive visualizatio
 ## 🌐 Live Sankey Diagram  
 
 You can view the publicly hosted Sankey diagram here:  
-[**Click here to view the Sankey Diagram**](https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/sankey.html)
+[**Click here to view the Sankey Diagram**](https://kavisha-29-r.github.io/hw5-Sankey-Plot/sankey.html)
 
 ---
 
